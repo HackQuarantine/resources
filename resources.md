@@ -29,3 +29,4 @@ Feel free to submit PRs [here](https://github.com/HackQuarantine/resources) if y
 ### Languages
 
 * [Python](https://www.python.org/)
+* [NodeJS](https://nodejs.org/en/)
