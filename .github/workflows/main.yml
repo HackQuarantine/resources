@@ -1,0 +1,22 @@
+
+name: Redeploy site
+on:
+  push:
+    branches:
+      - gh-pages
+  repository_dispatch:
+
+jobs:
+  create-file:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: octokit/request-action@v2.x
+        id: create_check_run
+        with:
+          route: POST /repos/:repository/dispatches
+          repository: HHEU/wiki
+          event_type: Deploy
+          mediaType: '{"previews": ["everest"]}'
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
