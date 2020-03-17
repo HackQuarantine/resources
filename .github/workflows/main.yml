@@ -14,7 +14,7 @@ jobs:
         id: create_check_run
         with:
           route: POST /repos/:repository/dispatches
-          repository: HHEU/wiki
+          repository: HackQuarantine/hq-website
           event_type: Deploy
           mediaType: '{"previews": ["everest"]}'
 
