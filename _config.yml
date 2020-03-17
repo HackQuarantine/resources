@@ -1,8 +1,0 @@
-defaults:
-  -
-    values:
-      title: Hack Quarantine
-      tagline: A global, virtual hackathon
-      assets:
-        small_logo: './assets/img/small_logo.png'
-        logo: './assets/img/logo.png'
