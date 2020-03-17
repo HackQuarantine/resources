@@ -39,3 +39,9 @@ Feel free to submit PRs [here](https://github.com/HackQuarantine/resources) if y
 
 
 * [Coronavirus Tech Handbook](https://coronavirustechhandbook.com/)
+
+
+
+## Datasets
+
+* [API for Coronavirus Data](https://covid19api.com/)
