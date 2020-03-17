@@ -14,7 +14,7 @@ Feel free to submit PRs [here](https://github.com/HackQuarantine/resources) if y
 
 
 * [Coronavirus Tech Handbook](https://coronavirustechhandbook.com/)
-
+* [NHS COVID-19 Advice](https://www.nhs.uk/conditions/coronavirus-covid-19/)
 
 
 ## Datasets
