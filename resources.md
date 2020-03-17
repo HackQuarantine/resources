@@ -22,3 +22,10 @@ Feel free to submit PRs [here](https://github.com/HackQuarantine/resources) if y
 ## Datasets
 
 * [API for Coronavirus Data](https://covid19api.com/)
+
+
+## Tools
+
+### Languages
+
+* [Python](https://www.python.org/)
