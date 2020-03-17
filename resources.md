@@ -22,6 +22,7 @@ Feel free to submit PRs [here](https://github.com/HackQuarantine/resources) if y
 ## Datasets
 
 * [API for Coronavirus Data](https://covid19api.com/)
+* [European Centre for Disease Prevention and Control - Dataset on cases worldwide](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
 
 
 ## Tools
