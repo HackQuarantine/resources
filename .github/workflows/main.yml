@@ -3,7 +3,7 @@ name: Redeploy site
 on:
   push:
     branches:
-      - gh-pages
+      - master
   repository_dispatch:
 
 jobs:
