@@ -2,12 +2,14 @@
 
     {% include header.html %}
     <body>
-        {% include navbar.html %}
+        <!-- this tag means links on the page change the parent window's url
+        ie. when the page is in an iframe links change the whole page not just the iframe -->
+        <base target="_parent">
 
         <div class="container page-content">
             {{ content }}
         </div>
 
-    {% include footer.html %}
+        {% include footer.html %}
   </body>
 </html>
