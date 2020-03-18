@@ -32,3 +32,8 @@ Feel free to submit PRs [here](https://github.com/HackQuarantine/resources) if y
 
 * [Python](https://www.python.org/)
 * [NodeJS](https://nodejs.org/en/)
+
+
+## Inspiration
+
+* [EyeWritter](http://eyewriter.org/) - open eye tracker design
