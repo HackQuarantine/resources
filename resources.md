@@ -12,11 +12,9 @@ Feel free to submit PRs [here](https://github.com/HackQuarantine/resources) if y
 
 ## General
 
-
 * [Coronavirus Tech Handbook](https://coronavirustechhandbook.com/)
 * [NHS COVID-19 Advice](https://www.nhs.uk/conditions/coronavirus-covid-19/)
 * [WHO Advice](https://www.who.int/health-topics/coronavirus)
-
 
 
 ## Datasets
@@ -28,10 +26,21 @@ Feel free to submit PRs [here](https://github.com/HackQuarantine/resources) if y
 
 ## Tools
 
-### Languages
+* [COVID-19 CLI tool](https://github.com/ahmadawais/corona-cli) - for regular updates to your CLI
+
+
+## Languages
 
 * [Python](https://www.python.org/)
 * [NodeJS](https://nodejs.org/en/)
+* [ReactJS](https://reactjs.org/)
+
+
+## Boilerplates and Starter Apps 
+
+* [NodeJS Hackathon Starter](https://github.com/sahat/hackathon-starter) - one of the most popular repositories on GitHub
+* [create-react-app from Facebook](https://github.com/facebook/create-react-app) - the defacto starter web app
+* [GRANDstack starter](https://github.com/grand-stack/grand-stack-starter) - GraphQL, ReactJS, Apollo and Neo4J all put together in one nice stack
 
 
 ## Inspiration
