@@ -22,7 +22,7 @@ Feel free to submit PRs [here](https://github.com/HackQuarantine/resources) if y
 ## Datasets
 
 * [API for Coronavirus Data](https://covid19api.com/)
-* [Another API with Coronavirus Data (including Countries, States, and Regions) - bonus - with accurate future prediction coefficients included](https://cryptinc.com/covid19/covid19_predictor.html) - updated hourly. Free. CORS enabled. do a "View Source" to see how to use it and the prediction function that goes with the corefficients.  Static sample [herre](https://cryptinc.com/covid19/usa/usa.htm).
+* [Another API with Coronavirus Data (including Countries, States, and Regions) - bonus - with accurate future prediction coefficients included](https://cryptinc.com/covid19/covid19_predictor.html) - updated hourly. Free. CORS enabled. do a "View Source" to see how to use it and the prediction function that goes with the corefficients.  Static sample [here](https://cryptinc.com/covid19/usa/usa.htm).
 * [European Centre for Disease Prevention and Control - Dataset on cases worldwide](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
 * [Covid-19 Normalized Dataset](https://github.com/fudgeythewhaler/covid19) - [Discussion](https://www.reddit.com/r/DataHoarder/comments/fkbhq0/covid19_dataset_save_yourself_some_time/)
 
